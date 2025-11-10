@@ -1,0 +1,5 @@
+{
+  "name": "Twitter Clone",
+  "description": "A real-time social media platform clone focusing on core functionalities like post creation, a dynamic feed, and a modern user interface, built with React and Tailwind CSS. It includes an AI-powered tweet idea generator using the Gemini API.",
+  "requestFramePermissions": []
+}
